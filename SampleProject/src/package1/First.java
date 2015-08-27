@@ -6,6 +6,7 @@ public class First {
 		// TODO Auto-generated method stub
 		System.out.println("Git Basics");
 		System.out.println("This is a change");
+		System.out.println("This is second change");
 	}
 
 }
